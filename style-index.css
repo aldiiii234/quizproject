@@ -16,7 +16,9 @@ body {
   #wrapper {
     right: 150px;
   }
-  
+  .home {
+    left: 600px;
+  }
 }
 
 .quiz-logo {
