@@ -12,6 +12,12 @@ body {
   align-items: center;
 }
 
+@media only screen and (max-width: 600px) {
+  #wrapper {
+    right: 150px;
+  }
+}
+
 .quiz-logo {
   position: absolute;
   right: 380px;
