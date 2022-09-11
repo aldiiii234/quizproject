@@ -14,10 +14,10 @@ body {
 
 @media only screen and (max-width: 600px) {
   #wrapper {
-    right: 550px;
+    right: 150px;
   }
   .home {
-    left: 200px;
+    left: 500px;
   }
 }
 
