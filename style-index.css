@@ -159,6 +159,7 @@ body {
 
 .home {
   position: absolute;
+  top: 50px;
   font-size: 22px;
   background-color: transparent;
   border: none;
